@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678709519 source:c:\users\tatiana\desktop\c++\projects\seminar3\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
